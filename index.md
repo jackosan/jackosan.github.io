@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-![Image](img src=https://wallpaperplay.com/walls/full/a/b/a/12943.jpg)
+![Image](https://wallpaperplay.com/walls/full/a/b/a/12943.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
